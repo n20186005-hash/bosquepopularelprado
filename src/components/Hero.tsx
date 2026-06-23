@@ -14,6 +14,10 @@ export default function Hero() {
             src="/gallery/bosque-popular-el-prado-4.jpg"
             alt="Bosque Popular El Prado"
             className="w-full h-full object-cover"
+            // #region debug-point A:hero-image-runtime
+            onLoad={(e) => fetch('http://127.0.0.1:7777/event', { method: 'POST', body: JSON.stringify({ sessionId: 'images-not-showing', runId: 'pre-fix', hypothesisId: 'A', location: 'Hero.tsx:13', msg: '[DEBUG] Hero image loaded', data: { src: (e.currentTarget as HTMLImageElement).currentSrc || e.currentTarget.getAttribute('src') }, ts: Date.now() }) }).catch(() => {})}
+            onError={(e) => fetch('http://127.0.0.1:7777/event', { method: 'POST', body: JSON.stringify({ sessionId: 'images-not-showing', runId: 'pre-fix', hypothesisId: 'A', location: 'Hero.tsx:13', msg: '[DEBUG] Hero image failed', data: { src: (e.currentTarget as HTMLImageElement).currentSrc || e.currentTarget.getAttribute('src') }, ts: Date.now() }) }).catch(() => {})}
+            // #endregion
           />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

@@ -78,6 +78,10 @@ export default function Gallery() {
                     alt={photo.alt}
                     className="w-full h-full object-cover"
                     loading="lazy"
+                    // #region debug-point B:gallery-image-runtime
+                    onLoad={(e) => fetch('http://127.0.0.1:7777/event', { method: 'POST', body: JSON.stringify({ sessionId: 'images-not-showing', runId: 'pre-fix', hypothesisId: 'B', location: 'Gallery.tsx:76', msg: '[DEBUG] Gallery image loaded', data: { src: (e.currentTarget as HTMLImageElement).currentSrc || e.currentTarget.getAttribute('src') }, ts: Date.now() }) }).catch(() => {})}
+                    onError={(e) => fetch('http://127.0.0.1:7777/event', { method: 'POST', body: JSON.stringify({ sessionId: 'images-not-showing', runId: 'pre-fix', hypothesisId: 'B', location: 'Gallery.tsx:76', msg: '[DEBUG] Gallery image failed', data: { src: (e.currentTarget as HTMLImageElement).currentSrc || e.currentTarget.getAttribute('src') }, ts: Date.now() }) }).catch(() => {})}
+                    // #endregion
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
@@ -134,6 +138,10 @@ export default function Gallery() {
             alt={photos[currentIndex].alt}
             className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
             onClick={(e) => e.stopPropagation()}
+            // #region debug-point C:lightbox-image-runtime
+            onLoad={(e) => fetch('http://127.0.0.1:7777/event', { method: 'POST', body: JSON.stringify({ sessionId: 'images-not-showing', runId: 'pre-fix', hypothesisId: 'C', location: 'Gallery.tsx:132', msg: '[DEBUG] Lightbox image loaded', data: { src: (e.currentTarget as HTMLImageElement).currentSrc || e.currentTarget.getAttribute('src') }, ts: Date.now() }) }).catch(() => {})}
+            onError={(e) => fetch('http://127.0.0.1:7777/event', { method: 'POST', body: JSON.stringify({ sessionId: 'images-not-showing', runId: 'pre-fix', hypothesisId: 'C', location: 'Gallery.tsx:132', msg: '[DEBUG] Lightbox image failed', data: { src: (e.currentTarget as HTMLImageElement).currentSrc || e.currentTarget.getAttribute('src') }, ts: Date.now() }) }).catch(() => {})}
+            // #endregion
           />
 
           <button
