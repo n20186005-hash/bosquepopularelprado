@@ -11,7 +11,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
           <img
-            src="/gallery/bosque-popular-el-prado-4.jpg"
+            src="/gallery/image-4.jpg"
             alt="Bosque Popular El Prado"
             className="w-full h-full object-cover"
             // #region debug-point A:hero-image-runtime

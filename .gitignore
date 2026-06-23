@@ -78,14 +78,12 @@ pnpm-lock.yaml
 
 # gatsby
 /.cache/
-/public/
 
 # commit messages
 COMMIT_EDITMSG*
 
 # hugo
 /resources/_gen/
-/public/
 
 # eleventy
 /_site/
