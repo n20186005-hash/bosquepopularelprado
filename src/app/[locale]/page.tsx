@@ -11,7 +11,6 @@ import FAQ from '@/components/FAQ';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
-import CTASection from '@/components/CTASection';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -37,7 +36,6 @@ export default async function HomePage({
         <Reviews />
         <FAQ />
         <MapEmbed />
-        <CTASection />
       </main>
       <Footer />
     </>
