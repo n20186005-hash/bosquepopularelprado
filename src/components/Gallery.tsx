@@ -69,17 +69,17 @@ export default function Gallery() {
               {visiblePhotos.map((photo, i) => (
                 <div
                   key={i}
-                  className={`gallery-item relative group cursor-pointer ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
+                  className={`gallery-item relative group cursor-pointer overflow-hidden rounded-lg ${i === 0 ? 'col-span-2 row-span-2' : ''}`}
                   onClick={() => openLightbox(i)}
+                  style={{ minHeight: i === 0 ? '400px' : '180px' }}
                 >
                   <img
                     src={photo.src}
                     alt={photo.alt}
-                    className="w-full h-full object-cover rounded-lg"
-                    style={{ minHeight: i === 0 ? '400px' : '180px' }}
+                    className="w-full h-full object-cover"
                     loading="lazy"
                   />
-                  <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
+                  <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
                       {photo.alt}
                     </p>
