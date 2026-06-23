@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "title": "Bosque Popular El Prado 埃尔普拉多人民森林 | 哥伦比亚曼尼萨莱斯城市公园",
+    "description": "探索 Bosque Popular El Prado（埃尔普拉多人民森林），位于哥伦比亚曼尼萨莱斯的城市绿洲，感受自然之美与城市休闲的完美结合。"
+  },
+  "header": {
+    "siteName": "Bosque Popular El Prado",
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "埃尔普拉多人民森林 (Bosque Popular El Prado) —— 曼尼萨莱斯的城市绿洲",
+    "subtitle": "坐落于哥伦比亚咖啡产区的心脏地带，这座城市公园是曼尼萨莱斯市民休闲健身、亲近自然的理想去处。跟随我们的脚步，探索这片城市绿洲的独特魅力。",
+    "rating": "4.7",
+    "reviewCount": "6,933+",
+    "hours": "城市公园 / 生态旅游 / 休闲健身",
+    "openMaps": "获取地图导航",
+    "viewGuide": "查看游览指南"
+  },
+  "intro": {
+    "title": "探索埃尔普拉多人民森林 (Explore the Forest)",
+    "description": "发现哥伦比亚卡尔达斯省的重要城市绿地 —— 一片为市民提供休闲、运动和亲近自然空间的天然绿洲。\n\nBosque Popular El Prado 位于曼尼萨莱斯，是当地居民和游客享受户外活动、呼吸新鲜空气的理想场所。在这里，您可以漫步于林间小径，感受安第斯山脉的自然风光。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "🌳 自然探索：漫步林间小径 ➔ 欣赏本土植被 ➔ 呼吸新鲜空气",
+        "🏃 休闲健身：晨跑或散步 ➔ 使用户外健身设施 ➔ 享受户外运动",
+        "📸 摄影观光：拍摄自然风光 ➔ 记录美好时光 ➔ 享受宁静氛围"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "🌳 城市绿洲：在繁忙的都市中拥有一片绿色天地，是市民休闲健身的好去处。",
+        "🏃 户外活动的理想场所：提供宽敞的开放空间，适合各种户外活动和家庭聚会。"
+      ]
+    },
+    "items": [
+      {
+        "title": "🌳 漫步自然绿洲",
+        "description": "在林间小径上漫步，感受大自然的宁静与美好，享受城市中的一片绿洲。"
+      },
+      {
+        "title": "🏃 享受户外运动",
+        "description": "利用公园的开放空间和设施进行晨跑、散步或户外运动，保持健康生活方式。"
+      }
+    ]
+  },
+  "route": {
+    "title": "游览指南 (Visitor Guide)",
+    "overview": "公众服务与游览指引：",
+    "steps": [
+      "开放时间：周一至周二 06:00–17:00 | 周三至周六 06:00–19:00 | 周日 06:00–20:00",
+      "门票信息：免费对公众开放",
+      "游览贴士：曼尼萨莱斯气候宜人，建议穿着舒适的运动装备，携带饮用水。"
+    ],
+    "supplementsTitle": "交通指引",
+    "supplements": [
+      "自驾/打车：在曼尼萨莱斯市内可轻松到达。",
+      "公共交通：可乘坐市内公交至附近，后步行到达。"
+    ],
+    "scheduleTitle": "🗓️ 推荐行程安排（建议游玩 1-2 小时）",
+    "scheduleItems": [
+      {
+        "time": "自然探索",
+        "description": "漫步林间小径，欣赏本土植被和自然风光。"
+      },
+      {
+        "time": "休闲健身",
+        "description": "利用开放空间进行户外运动，享受健康生活方式。"
+      }
+    ],
+    "tipsTitle": "💡 行前实用贴士",
+    "tipsItems": [
+      {
+        "title": "天气与装备",
+        "description": "曼尼萨莱斯位于安第斯山脉，气候宜人。建议穿着舒适的运动装备，携带饮用水。"
+      },
+      {
+        "title": "交通信息",
+        "description": "在曼尼萨莱斯市内可轻松到达，推荐打车或自驾前往。"
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "发现 Bosque Popular El Prado 的魅力",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与文化",
+        "content": "Bosque Popular El Prado 是曼尼萨莱斯重要的城市绿地，为市民提供了休闲、运动和亲近自然的场所。作为城市公园，它见证了曼尼萨莱斯的城市发展，是市民日常生活中不可或缺的一部分。"
+      },
+      {
+        "id": "nature",
+        "title": "自然特色",
+        "content": "公园保留了丰富的本土植被，是城市中的天然绿洲。在这里，游客可以近距离接触安第斯山脉的 flora and fauna，享受清新空气和宁静氛围。"
+      },
+      {
+        "id": "location",
+        "title": "地理位置与交通",
+        "content": "Bosque Popular El Prado 位于哥伦比亚卡尔达斯省曼尼萨莱斯，交通便利，是当地居民和游客享受户外活动的理想选择。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "核心概览 (Quick Facts)",
+    "officialName": "景点名称",
+    "officialNameValue": "Bosque Popular El Prado（埃尔普拉多人民森林）",
+    "type": "景点类型",
+    "typeValue": "城市公园、休闲绿地",
+    "country": "国家",
+    "countryValue": "哥伦比亚",
+    "city": "城市",
+    "cityValue": "曼尼萨莱斯 (Manizales), 卡尔达斯省",
+    "googleRating": "谷歌评分",
+    "address": "位置",
+    "addressValue": "bosque popular, Manizales, 哥伦比亚",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "2GPF+8V",
+    "phone": "联系电话",
+    "phoneValue": "+57 68720420",
+    "petFriendly": "宠物准入",
+    "petFriendlyValue": "允许（请牵好宠物）",
+    "tickets": "门票价格",
+    "ticketsValue": "免费对公众开放",
+    "facilities": "实用设施",
+    "facilitiesValue": "步行小径、休闲空间、绿化区域",
+    "hours": "开放时间",
+    "hoursValue": "周一至周二 06:00–17:00 | 周三至周六 06:00–19:00 | 周日 06:00–20:00",
+    "rating": "游客评分",
+    "ratingValue": "4.7 / 5.0 (基于 6,933+ 条评价)",
+    "location": "地理位置",
+    "locationValue": "哥伦比亚卡尔达斯省曼尼萨莱斯"
+  },
+  "hours": {
+    "title": "开放时间与游览建议",
+    "outdoor": "营业时间",
+    "outdoorTime": "周一至周二 06:00–17:00，周三至周六 06:00–19:00，周日 06:00–20:00",
+    "lighthouse": "最佳游览时间",
+    "summer": "清晨或傍晚",
+    "summerTime": "（气候宜人，适合户外活动）",
+    "winter": "注意事项",
+    "winterTime": "穿着舒适的运动装备、携带饮用水",
+    "warning": "💡 动态天气提示",
+    "warningTime": "曼尼萨莱斯位于安第斯山脉，气候宜人，非常适合户外活动。",
+    "tip": "公园免费开放，是市民日常休闲健身的理想场所。"
+  },
+  "tickets": {
+    "title": "注意事项",
+    "outdoor": "入场费用",
+    "outdoorPrice": "免费进入",
+    "lighthouse": "交通信息",
+    "adults": "从曼尼萨莱斯市区",
+    "adultsPrice": "打车或步行可达",
+    "students": "建议游玩时间",
+    "studentsPrice": "1-2 小时",
+    "card": "周边景点",
+    "cardPrice": "曼尼萨莱斯市区、卡尔达斯省其他景点。",
+    "officialNotice": "获取最新信息，请查阅",
+    "officialNoticeLinkLabel": "曼尼萨莱斯市政府网站",
+    "officialNoticeLink": "https://www.manizales.gov.co/"
+  },
+  "transport": {
+    "title": "如何到达 (Getting There)",
+    "airport": "✈️ 机场到景点路线 (核心推荐)",
+    "airportDesc": "距离 Bosque Popular El Prado 最近的机场是拉努比亚机场 (MZL)。抵达后，可乘坐出租车或网约车轻松到达公园。从机场到公园约 20 分钟车程。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "在曼尼萨莱斯市内，沿着道路行驶即可到达 Bosque Popular El Prado。",
+    "bus": "🚌 公共交通 (从曼尼萨莱斯市区出发)",
+    "busDesc": "在曼尼萨莱斯市内可乘坐公交车至附近，后步行到达公园。",
+    "intercity": "区内交通",
+    "intercityDesc": "Bosque Popular El Prado 位于曼尼萨莱斯市内，交通便利。",
+    "cycling": "其他方式",
+    "cyclingDesc": "可以在曼尼萨莱斯市内步行或打车游览，更好地欣赏城市风光。",
+    "tips": "出行建议",
+    "tipsDesc": "从曼尼萨莱斯市区出发路程较短，建议提前规划好行程和交通方式。",
+    "addressTitle": "📍 地址",
+    "addressValue": "bosque popular, Manizales, 哥伦比亚",
+    "taxiTitle": "🚕 出租车 / 网约车 (最推荐)",
+    "taxiDesc": "无论从曼尼萨莱斯市区何处出发，直接打车至 Bosque Popular El Prado 是最省时省力的方式。",
+    "metroTitle": "🚌 公共交通",
+    "metroDesc": "在曼尼萨莱斯市内可乘坐公交车至附近，后步行到达。",
+    "airportTitle": "✈️ 机场交通",
+    "airportItems": [
+      {
+        "name": "拉努比亚机场 (MZL)",
+        "desc": "距离公园约 20 分钟车程。"
+      },
+      {
+        "name": "曼尼萨莱斯市区",
+        "desc": "距离公园极近，非常便利。"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "感受曼尼萨莱斯的城市自然魅力",
+    "captions": [
+      "公园全景",
+      "绿树成荫的小径",
+      "自然风光",
+      "休闲空间",
+      "植被景观",
+      "户外运动区域",
+      "宁静角落",
+      "城市绿地",
+      "游客活动场景",
+      "自然与城市融合",
+      "本土植物",
+      "休闲健身场景",
+      "公园入口",
+      "绿化景观",
+      "家庭活动场景",
+      "自然生态",
+      "阳光与绿意",
+      "公园休闲氛围"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "美丽的城市公园，可以感受到自然的魅力。"
+      },
+      {
+        "name": "李小明",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "公园非常漂亮，是休闲健身的好地方！"
+      },
+      {
+        "name": "María González",
+        "date": "3周前",
+        "rating": 5,
+        "text": "Un lugar encantador para disfrutar de la naturaleza."
+      },
+      {
+        "name": "John Smith",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "A charming city park. Great for family trips."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "2个月前",
+        "rating": 4,
+        "text": "Hermoso parque con buen ambiente. Muy recomendado."
+      },
+      {
+        "name": "张伟",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "来到曼尼萨莱斯一定要来这个公园，感受自然与城市的融合！"
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "3个月前",
+        "rating": 5,
+        "text": "Excelente lugar para disfrutar del aire libre y hacer ejercicio."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "A must-visit place in Manizales! The park is beautiful."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "bosque popular, Manizales, 哥伦比亚",
+    "openMaps": "在 Google Maps 查看位置",
+    "nearbyTitle": "周边推荐",
+    "nearby1Name": "曼尼萨莱斯市区",
+    "nearby1Desc": "🚶 步行可达",
+    "nearby2Name": "卡尔达斯省其他景点",
+    "nearby2Desc": "🚗 短途车程"
+  },
+  "footer": {
+    "rights": "© 2026 Bosque Popular El Prado. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "colombiaTravel": {
+        "name": "哥伦比亚国家旅游局官方门户 (Colombia Travel)",
+        "url": "https://colombia.travel/es"
+      },
+      "manizales": {
+        "name": "曼尼萨莱斯市政府",
+        "url": "https://www.manizales.gov.co/"
+      },
+      "caldas": {
+        "name": "卡尔达斯省政府",
+        "url": "https://www.caldas.gov.co/"
+      },
+      "mincit": {
+        "name": "哥伦比亚贸易、工业和旅游部 (MinCIT)",
+        "url": "https://www.mincit.gov.co/"
+      },
+      "procolombia": {
+        "name": "哥伦比亚旅游、外资和非传统出口促进局 (ProColombia)",
+        "url": "https://procolombia.co/"
+      },
+      "migracion": {
+        "name": "哥伦比亚国家移民局 (Migración Colombia)",
+        "url": "https://www.migracioncolombia.gov.co/"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 责任限制",
+        "content": "对于因使用本网站或依赖其中提供的信息而产生的任何直接或间接损失，我们不承担任何责任。"
+      }
+    ]
+  },
+  "about": {
+    "title": "关于 Bosque Popular El Prado",
+    "introTitle": "景点介绍",
+    "introText": "Bosque Popular El Prado（埃尔普拉多人民森林）是位于哥伦比亚卡尔达斯省曼尼萨莱斯的一座重要城市公园。这座位于安第斯山脉的城市绿洲，不仅为市民提供了休闲健身的场所，更是连接自然与城市生活的重要桥梁。",
+    "managementTitle": "管理信息",
+    "managedBy": "管理单位",
+    "managementOrg": "曼尼萨莱斯市政府",
+    "location": "地理位置",
+    "locationValue": "哥伦比亚卡尔达斯省曼尼萨莱斯市",
+    "officialInfo": "官方信息",
+    "websiteText": "访问曼尼萨莱斯市政府官网",
+    "websiteUrl": "https://www.manizales.gov.co/",
+    "historyTitle": "公园背景",
+    "historyText": "作为曼尼萨莱斯的重要城市绿地，Bosque Popular El Prado 为市民提供了宝贵的自然空间。",
+    "managementOwnershipTitle": "管理机构与权属说明",
+    "managementOwnershipText": "Bosque Popular El Prado 是位于哥伦比亚卡尔达斯省曼尼萨莱斯市的一座公共城市公园，由曼尼萨莱斯市政府（Alcaldía de Manizales）负责日常管理与维护。作为城市公共绿地，该公园归曼尼萨莱斯市政府所有，面向全体市民及游客免费开放，是曼尼萨莱斯城市自然与公共休闲服务体系的重要组成部分。",
+    "managementOrgFull": "曼尼萨莱斯市政府（Alcaldía de Manizales）",
+    "ownershipType": "公共权属（市政府所有）",
+    "managementContact": "联系电话：+57 68720420"
+  },
+  "historyTimeline": {
+    "title": "公园发展时间轴 (Timeline)",
+    "items": [
+      {
+        "year": "建立初期",
+        "title": "公园建立",
+        "plaque": "城市绿地",
+        "description": "Bosque Popular El Prado 作为城市公园建立，为市民提供休闲空间。"
+      },
+      {
+        "year": "发展过程",
+        "title": "设施完善",
+        "plaque": "公园建设",
+        "description": "不断完善公园设施，增加步行小径和休闲空间，成为市民日常休闲的重要场所。"
+      },
+      {
+        "year": "至今",
+        "title": "持续发展",
+        "plaque": "城市绿洲",
+        "description": "作为曼尼萨莱斯的重要城市绿地，继续为市民和游客提供亲近自然的空间。"
+      }
+    ]
+  },
+  "officialManagement": {
+    "title": "关于 Bosque Popular El Prado",
+    "text": "Bosque Popular El Prado 是哥伦比亚卡尔达斯省曼尼萨莱斯的一座城市公园，作为旅游景点和休闲场所，是体验曼尼萨莱斯城市自然之美的重要地点。"
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站交互。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  },
+  "deepDive": {
+    "title": "自然与城市的融合：深度百科",
+    "geology": {
+      "title": "地理与位置：安第斯山脉中的城市绿洲",
+      "subtitle1": "地理位置：卡尔达斯省的城市公园",
+      "desc1": "Bosque Popular El Prado 位于哥伦比亚卡尔达斯省曼尼萨莱斯，坐落在安第斯山脉区域。这里地理位置优越，是市民休闲健身的理想场所。"
+    },
+    "architecture": {
+      "title": "公园特色：城市绿地的价值",
+      "subtitle1": "自然与城市的融合",
+      "desc1": "了解这座城市公园如何为市民提供宝贵的自然空间，在繁忙的都市中创造一片绿洲。公园保留了本土植被，为城市生态平衡做出贡献。"
+    },
+    "art": {
+      "title": "休闲与文化：从自然到社区",
+      "subtitle1": "市民休闲空间",
+      "desc1": "作为城市公园，这里不仅是休闲健身的场所，更是社区活动的重要空间。市民可以在这里进行各种户外活动，享受健康生活方式。"
+    }
+  },
+  "didYouKnow": {
+    "title": "💡 知识科普：为什么城市公园对曼尼萨莱斯如此重要？",
+    "description": "曼尼萨莱斯位于哥伦比亚的咖啡产区，地处安第斯山脉，地形多山。在这样的城市环境中，平坦宽敞的城市公园如 Bosque Popular El Prado 显得尤为珍贵。它不仅为市民提供了宝贵的休闲空间，更是城市生态平衡的重要组成部分。公园内丰富的植被有助于改善城市空气质量，为市民创造更健康的生活环境。"
+  },
+  "faq": {
+    "title": "常见问题解答 (FAQ)",
+    "items": [
+      {
+        "question": "Bosque Popular El Prado 的开放时间是什么？",
+        "answer": "Bosque Popular El Prado 的开放时间如下：\n\n周一至周二：06:00–17:00\n周三至周六：06:00–19:00\n周日：06:00–20:00\n\n建议在清晨或傍晚时分前往，可以享受更凉爽的气候和更宁静的环境。具体开放时间可能会因特殊活动或节假日而有所调整，建议出行前查看 Google Maps 获取最新信息。"
+      },
+      {
+        "question": "是否需要购买门票？",
+        "answer": "公园完全免费对公众开放。所有市民和游客都可以自由进入，享受自然与休闲空间。这是一个真正的公共空间，为所有人提供亲近自然的机会。"
+      },
+      {
+        "question": "如何前往 Bosque Popular El Prado？",
+        "answer": "Bosque Popular El Prado 位于哥伦比亚卡尔达斯省曼尼萨莱斯。\n\n推荐交通方式：\n1. 出租车/网约车：最便捷的方式，在曼尼萨莱斯市内直接打车前往。\n2. 步行：如果在附近，可以步行到达。\n3. 公共交通：可乘坐市内公交至附近，后步行到达。\n\n最近的机场是拉努比亚机场 (MZL)，距离公园约 20 分钟车程。"
+      },
+      {
+        "question": "Bosque Popular El Prado 适合家庭出游吗？",
+        "answer": "是的，Bosque Popular El Prado 非常适合家庭出游。公园内有宽敞的开放空间，孩子们可以在安全的环境中奔跑玩耍。同时，这里也是进行户外运动和家庭聚会的理想场所。曼尼萨莱斯气候宜人，非常适合户外活动。"
+      }
+    ]
+  }
+}

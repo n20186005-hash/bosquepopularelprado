@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "title": "Bosque Popular El Prado | City Park in Manizales, Colombia",
+    "description": "Explore Bosque Popular El Prado, an urban oasis in Manizales, Colombia, and experience the perfect blend of nature and city life."
+  },
+  "header": {
+    "siteName": "Bosque Popular El Prado",
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Bosque Popular El Prado",
+    "subtitle": "An urban oasis in the heart of Colombia's coffee region, the perfect place for citizens to relax, exercise, and connect with nature.\nHere, feel the natural beauty and enjoy the green lungs of Manizales.",
+    "rating": "4.7",
+    "reviewCount": "6,933+",
+    "hours": "City Park / Eco-tourism / Recreation",
+    "openMaps": "Get Directions",
+    "viewGuide": "View Visit Guide"
+  },
+  "intro": {
+    "title": "Explore the Forest",
+    "description": "Discover an important urban green space in Caldas, Colombia — an ideal attraction for citizens to relax, exercise, and connect with nature.\n\nBosque Popular El Prado is located in Manizales, providing an ideal place for locals and tourists to enjoy outdoor activities and fresh air. Here, you can stroll along forest paths and experience the natural beauty of the Andes Mountains.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "🌳 Morning Tour: Walk along forest paths ➔ Admire native vegetation ➔ Breathe fresh air",
+        "🏃 Afternoon Exercise: Morning jog or walk ➔ Use outdoor fitness facilities ➔ Enjoy outdoor sports",
+        "📸 Photography Tour: Capture natural landscapes ➔ Record beautiful moments ➔ Enjoy peaceful atmosphere"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Core Highlights",
+      "items": [
+        "🌳 Urban Oasis: A green paradise in the busy city, an excellent place for citizens to relax and exercise.",
+        "🏃 Ideal Place for Outdoor Activities: Provides spacious open spaces, suitable for various outdoor activities and family gatherings."
+      ]
+    },
+    "items": [
+      {
+        "title": "🌳 Stroll Through Natural Oasis",
+        "description": "Walk along forest paths, feel the tranquility and beauty of nature, and enjoy an oasis in the city."
+      },
+      {
+        "title": "🏃 Enjoy Outdoor Sports",
+        "description": "Utilize the park's open spaces and facilities for morning jogs, walks, or outdoor sports, maintaining a healthy lifestyle."
+      }
+    ]
+  },
+  "route": {
+    "title": "Visit Guide",
+    "overview": "Perfect One-Day Itinerary:",
+    "steps": [
+      "Opening Hours: Monday-Tuesday 06:00–17:00 | Wednesday-Saturday 06:00–19:00 | Sunday 06:00–20:00",
+      "Ticket Information: Free entry to the public",
+      "Visiting Tips: Manizales has pleasant weather. It is recommended to wear comfortable sports gear and bring drinking water."
+    ],
+    "supplementsTitle": "Practical Tips",
+    "supplements": [
+      "Best Time: It is recommended to go in the early morning or evening for cooler weather and a more peaceful environment.",
+      "Preparation: Wear comfortable sports gear and bring enough drinking water.",
+      "Photography Preparation: The park is an excellent location for photographing natural scenery. It is recommended to bring a camera or ensure your phone is fully charged."
+    ],
+    "scheduleTitle": "🗓️ Recommended Itinerary (1-2 hours)",
+    "scheduleItems": [
+      {
+        "time": "Morning (Nature Exploration)",
+        "description": "Walk along forest paths, admire native vegetation and natural landscapes."
+      },
+      {
+        "time": "Afternoon (Recreation & Sports)",
+        "description": "Use open spaces for outdoor sports and enjoy a healthy lifestyle."
+      }
+    ],
+    "tipsTitle": "💡 Practical Tips",
+    "tipsItems": [
+      {
+        "title": "Weather & Gear",
+        "description": "Manizales is located in the Andes Mountains with pleasant weather. Please wear comfortable sports gear and bring drinking water."
+      },
+      {
+        "title": "Transportation Info",
+        "description": "Easily accessible within Manizales city. Taking a taxi or driving is recommended."
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Bosque Popular El Prado",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Culture",
+        "content": "Bosque Popular El Prado is an important urban green space in Manizales, providing citizens with a place for recreation, sports, and connecting with nature. As a city park, it has witnessed the urban development of Manizales and is an indispensable part of citizens' daily lives."
+      },
+      {
+        "id": "nature",
+        "title": "Natural Features",
+        "content": "The park preserves rich native vegetation and is a natural oasis in the city. Here, visitors can get close to the flora and fauna of the Andes Mountains and enjoy fresh air and a peaceful atmosphere."
+      },
+      {
+        "id": "location",
+        "title": "Location & Transportation",
+        "content": "Bosque Popular El Prado is located in Manizales, Caldas, Colombia, with convenient transportation, making it an ideal choice for locals and tourists to enjoy outdoor activities."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Quick Facts",
+    "officialName": "Official Name",
+    "officialNameValue": "Bosque Popular El Prado",
+    "type": "Attraction Type",
+    "typeValue": "City Park / Urban Green Space",
+    "country": "Country",
+    "countryValue": "Colombia",
+    "city": "City",
+    "cityValue": "Manizales, Caldas",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "bosque popular, Manizales, Colombia",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2GPF+8V",
+    "phone": "Phone",
+    "phoneValue": "+57 68720420",
+    "petFriendly": "Pet Friendly",
+    "petFriendlyValue": "Yes (please leash your pets)",
+    "tickets": "Tickets",
+    "ticketsValue": "Free entry to the public",
+    "facilities": "Facilities",
+    "facilitiesValue": "Walking paths, recreation spaces, green areas",
+    "hours": "Opening Hours",
+    "hoursValue": "Mon-Tue 06:00–17:00, Wed-Sat 06:00–19:00, Sun 06:00–20:00",
+    "rating": "Rating",
+    "ratingValue": "4.7 / 5.0 (based on 6,933+ reviews)",
+    "location": "Location",
+    "locationValue": "Manizales, Caldas, Colombia"
+  },
+  "hours": {
+    "title": "Opening Hours & Visitor Info",
+    "outdoor": "Business Hours",
+    "outdoorTime": "Mon-Tue 06:00–17:00, Wed-Sat 06:00–19:00, Sun 06:00–20:00",
+    "lighthouse": "Best Visiting Time",
+    "summer": "Early morning or evening",
+    "summerTime": "(Pleasant weather, suitable for outdoor activities)",
+    "winter": "Notes",
+    "winterTime": "Wear comfortable sports gear and bring drinking water",
+    "warning": "💡 Dynamic Weather Tip",
+    "warningTime": "Manizales is located in the Andes Mountains with pleasant weather, perfect for outdoor visits.",
+    "tip": "The park is free to enter and is an ideal place for citizens' daily recreation and exercise."
+  },
+  "tickets": {
+    "title": "Important Information",
+    "outdoor": "Admission Fee",
+    "outdoorPrice": "Free entrance",
+    "lighthouse": "Transportation Info",
+    "adults": "From Manizales City Center",
+    "adultsPrice": "Walk or take a taxi",
+    "students": "Recommended Visit Duration",
+    "studentsPrice": "1-2 hours",
+    "card": "Nearby Attractions",
+    "cardPrice": "Manizales city center, other attractions in Caldas province.",
+    "officialNotice": "For the latest updates, please refer to the",
+    "officialNoticeLinkLabel": "Official Website of Manizales Municipality",
+    "officialNoticeLink": "https://www.manizales.gov.co/"
+  },
+  "transport": {
+    "title": "Getting There",
+    "airport": "✈️ Airport to Park (Core Recommendation)",
+    "airportDesc": "The closest airport to Bosque Popular El Prado is La Nubia Airport (MZL). Upon arrival, you can take a taxi or ride-hailing service to easily reach the park. The journey is about 20 minutes from the airport to the park.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "Within Manizales city, follow the road to reach Bosque Popular El Prado.",
+    "bus": "🚌 Public Transportation (From Manizales city center)",
+    "busDesc": "In Manizales city, you can take a bus to nearby, then walk to the park.",
+    "intercity": "Within the Region",
+    "intercityDesc": "Bosque Popular El Prado is located within Manizales city, with convenient transportation.",
+    "cycling": "Other Options",
+    "cyclingDesc": "You can walk or take a taxi to explore and better appreciate the city scenery.",
+    "tips": "Travel Tips",
+    "tipsDesc": "The journey from Manizales city center is short. It is recommended to plan your itinerary and transportation in advance.",
+    "addressTitle": "📍 Address",
+    "addressValue": "bosque popular, Manizales, Colombia",
+    "taxiTitle": "🚕 Taxi / Rideshare (Most Recommended)",
+    "taxiDesc": "No matter where you depart from in Manizales, taking a taxi directly to Bosque Popular El Prado is the most time-saving and effortless way.",
+    "metroTitle": "🚌 Public Transportation",
+    "metroDesc": "In Manizales city, you can take a bus to nearby, then walk to the park.",
+    "airportTitle": "✈️ Airport Transport",
+    "airportItems": [
+      {
+        "name": "La Nubia Airport (MZL)",
+        "desc": "About 20 minutes drive from the park."
+      },
+      {
+        "name": "Manizales City Center",
+        "desc": "Very close to the park, extremely convenient."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "Feel the Natural Charm of Manizales",
+    "captions": [
+      "Park Panoramic View",
+      "Tree-lined Paths",
+      "Natural Scenery",
+      "Recreation Spaces",
+      "Vegetation Landscape",
+      "Outdoor Sports Area",
+      "Peaceful Corner",
+      "Urban Green Space",
+      "Tourist Activity Scenes",
+      "Nature and City Integration",
+      "Native Plants",
+      "Recreation and Sports Scenes",
+      "Park Entrance",
+      "Green Landscape",
+      "Family Activity Scenes",
+      "Natural Ecology",
+      "Sunshine and Greenery",
+      "Park Recreation Atmosphere"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Beautiful city park, you can feel the charm of nature."
+      },
+      {
+        "name": "John Smith",
+        "date": "6 months ago",
+        "rating": 5,
+        "text": "A charming city park. Great for family trips."
+      },
+      {
+        "name": "María González",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "Un lugar encantador para disfrutar de la naturaleza."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Hermoso parque con buen ambiente. Muy recomendado."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "A must-visit place in Manizales! The park is beautiful."
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "3 months ago",
+        "rating": 5,
+        "text": "Excelente lugar para disfrutar del aire libre y hacer ejercicio."
+      },
+      {
+        "name": "Li Xiaoming",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "The park is very beautiful, a great place for recreation and exercise!"
+      },
+      {
+        "name": "Zhang Wei",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Must-visit place when coming to Manizales, feel the fusion of nature and city!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "bosque popular, Manizales, Colombia",
+    "openMaps": "View on Google Maps",
+    "nearbyTitle": "Nearby Recommendations",
+    "nearby1Name": "Manizales City Center",
+    "nearby1Desc": "🚶 Walkable",
+    "nearby2Name": "Other Attractions in Caldas",
+    "nearby2Desc": "🚗 Short drive"
+  },
+  "footer": {
+    "rights": "© 2026 Bosque Popular El Prado. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Links",
+    "officialLinks": {
+      "colombiaTravel": {
+        "name": "Colombia National Tourism Official Portal (Colombia Travel)",
+        "url": "https://colombia.travel/es"
+      },
+      "manizales": {
+        "name": "Manizales Municipal Government",
+        "url": "https://www.manizales.gov.co/"
+      },
+      "caldas": {
+        "name": "Caldas Governorate",
+        "url": "https://www.caldas.gov.co/"
+      },
+      "mincit": {
+        "name": "Colombia Ministry of Commerce, Industry and Tourism (MinCIT)",
+        "url": "https://www.mincit.gov.co/"
+      },
+      "procolombia": {
+        "name": "Colombia Tourism, Foreign Investment and Non-Traditional Exports Promotion Agency (ProColombia)",
+        "url": "https://procolombia.co/"
+      },
+      "migracion": {
+        "name": "Colombia National Migration Agency (Migración Colombia)",
+        "url": "https://www.migracioncolombia.gov.co/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be liable for any direct or indirect damages arising from the use of this website or reliance on the information provided herein."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Bosque Popular El Prado",
+    "introTitle": "Introduction",
+    "introText": "Bosque Popular El Prado is an important city park located in Manizales, Caldas, Colombia. This urban oasis located in the Andes Mountains not only provides citizens with a place for recreation and exercise, but also serves as an important bridge connecting nature and urban life.\n\nSituated in the coffee region of Colombia, the park offers excellent green spaces. Its rich vegetation creates a beautiful contrast with the urban landscape of Manizales.",
+    "managementTitle": "Management Information",
+    "managedBy": "Managed By",
+    "managementOrg": "Municipal Government of Manizales, Colombia",
+    "location": "Location",
+    "locationValue": "Manizales, Caldas, Colombia",
+    "officialInfo": "Official Information",
+    "websiteText": "Visit Manizales Municipal Government Website",
+    "websiteUrl": "https://www.manizales.gov.co/",
+    "historyTitle": "Park Background",
+    "historyText": "As an important urban green space in Manizales, Bosque Popular El Prado provides citizens with valuable natural spaces.",
+    "managementOwnershipTitle": "Management & Ownership",
+    "managementOwnershipText": "Bosque Popular El Prado is a public city park located in Manizales, Caldas, Colombia. It is managed and maintained by the Municipal Government of Manizales (Alcaldía de Manizales). As a public urban green space, the park is owned by the Manizales Municipal Government and is free and open to all citizens and visitors. It is an important part of Manizales' urban nature and public recreation service system.",
+    "managementOrgFull": "Municipal Government of Manizales (Alcaldía de Manizales)",
+    "ownershipType": "Public Ownership (Municipal Government)",
+    "managementContact": "Contact: +57 68720420"
+  },
+  "historyTimeline": {
+    "title": "Park Development Timeline",
+    "items": [
+      {
+        "year": "Early Establishment",
+        "title": "Park Establishment",
+        "plaque": "Urban Green Space",
+        "description": "Bosque Popular El Prado was established as a city park, providing citizens with recreation spaces."
+      },
+      {
+        "year": "Development Process",
+        "title": "Facility Improvement",
+        "plaque": "Park Construction",
+        "description": "Continuously improving park facilities, adding walking paths and recreation spaces, becoming an important place for citizens' daily recreation."
+      },
+      {
+        "year": "Present Day",
+        "title": "Continuous Development",
+        "plaque": "Urban Oasis",
+        "description": "As an important urban green space in Manizales, continuing to provide citizens and tourists with spaces to connect with nature."
+      }
+    ]
+  },
+  "officialManagement": {
+    "title": "About Bosque Popular El Prado",
+    "text": "Bosque Popular El Prado is a city park in Manizales, Caldas, Colombia. As a tourist attraction and recreation place, it is an important location to experience the natural beauty of Manizales city."
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "deepDive": {
+    "title": "Fusion of Nature and City: Deep Dive",
+    "geology": {
+      "title": "Geography & Location: Urban Oasis in the Andes",
+      "subtitle1": "Geographical Location: City Park of Caldas",
+      "desc1": "Bosque Popular El Prado is located in Manizales, Caldas, Colombia, in the Andes Mountains region. This geographical location is advantageous for citizens' recreation and exercise."
+    },
+    "architecture": {
+      "title": "Park Features: Value of Urban Green Space",
+      "subtitle1": "Fusion of Nature and City",
+      "desc1": "Understand how this city park provides valuable natural spaces for citizens, creating an oasis in the busy city. The park preserves native vegetation and contributes to urban ecological balance."
+    },
+    "art": {
+      "title": "Recreation & Culture: From Nature to Community",
+      "subtitle1": "Citizen Recreation Space",
+      "desc1": "As a city park, this is not only a place for recreation and sports, but also an important space for community activities. Citizens can engage in various outdoor activities here and enjoy a healthy lifestyle."
+    }
+  },
+  "didYouKnow": {
+    "title": "💡 Hidden Easter Egg: Did You Know?",
+    "description": "Manizales is located in Colombia's coffee region, in the Andes Mountains, with mountainous terrain. In such an urban environment, flat and spacious city parks like Bosque Popular El Prado are particularly precious. It not only provides citizens with valuable recreation spaces, but also serves as an important component of urban ecological balance. The rich vegetation in the park helps improve urban air quality and creates a healthier living environment for citizens."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions (FAQ)",
+    "items": [
+      {
+        "question": "What are the opening hours of Bosque Popular El Prado?",
+        "answer": "The opening hours of Bosque Popular El Prado are as follows:\n\nMonday to Tuesday: 06:00–17:00\nWednesday to Saturday: 06:00–19:00\nSunday: 06:00–20:00\n\nIt is recommended to go in the early morning or evening for cooler weather and a more peaceful environment. Specific opening hours may be adjusted due to special events or holidays, so it is recommended to check Google Maps for the latest information before traveling."
+      },
+      {
+        "question": "Do I need to buy tickets?",
+        "answer": "The park is completely free to enter. All citizens and tourists can enter freely and enjoy the natural and recreational spaces. This is a truly public space that provides everyone with the opportunity to connect with nature."
+      },
+      {
+        "question": "How to get to Bosque Popular El Prado?",
+        "answer": "Bosque Popular El Prado is located in Manizales, Caldas, Colombia.\n\nRecommended transportation:\n1. Taxi/Ride-hailing: The most convenient way, take a taxi directly from Manizales city center.\n2. Walking: If nearby, you can walk to the park.\n3. Public transportation: Take a city bus to nearby, then walk to the park.\n\nThe nearest airport is La Nubia Airport (MZL), about 20 minutes from the park."
+      },
+      {
+        "question": "Is Bosque Popular El Prado suitable for family trips?",
+        "answer": "Yes, Bosque Popular El Prado is very suitable for family trips. The park has spacious open spaces where children can run and play in a safe environment. At the same time, it is also an ideal place for outdoor sports and family gatherings. Manizales has pleasant weather, very suitable for outdoor activities."
+      }
+    ]
+  }
+}

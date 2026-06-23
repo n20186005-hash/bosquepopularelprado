@@ -1,0 +1,504 @@
+{
+  "meta": {
+    "title": "Bosque Popular El Prado | Parque de la Ciudad en Manizales, Colombia",
+    "description": "Explora el Bosque Popular El Prado, un oasis urbano en Manizales, Colombia, y experimenta la fusión perfecta de naturaleza y vida citadina."
+  },
+  "header": {
+    "siteName": "Bosque Popular El Prado",
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Bosque Popular El Prado",
+    "subtitle": "Un oasis urbano en el corazón del eje cafetero colombiano, el lugar perfecto para que los ciudadanos se relajen, hagan ejercicio y se conecten con la naturaleza.\nAquí, siente la belleza natural y disfruta de los pulmones verdes de Manizales.",
+    "rating": "4.7",
+    "reviewCount": "6,933+",
+    "hours": "Parque de la Ciudad / Ecoturismo / Recreación",
+    "openMaps": "Obtener Ruta",
+    "viewGuide": "Ver Guía de Visita"
+  },
+  "intro": {
+    "title": "Explora el Bosque",
+    "description": "Descubre un importante espacio verde urbano en Caldas, Colombia — una atracción ideal para que los ciudadanos se relajen, hagan ejercicio y se conecten con la naturaleza.\n\nEl Bosque Popular El Prado se encuentra en Manizales, proporcionando un lugar ideal para que locales y turistas disfruten de actividades al aire libre y aire fresco. Aquí, puedes caminar por senderos forestales y experimentar la belleza natural de la cordillera de los Andes.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "🌳 Recorrido Matutino: Camina por senderos forestales ➔ Admira la vegetación nativa ➔ Respira aire fresco",
+        "🏃 Tarde de Ejercicio: Trotar o caminar por la mañana ➔ Usa las instalaciones de ejercicio al aire libre ➔ Disfruta de deportes al aire libre",
+        "📸 Recorrido Fotográfico: Captura paisajes naturales ➔ Graba momentos hermosos ➔ Disfruta de un ambiente tranquilo"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Aspectos Destacados",
+      "items": [
+        "🌳 Oasis Urbano: Un paraíso verde en la ciudad ocupada, un excelente lugar para que los ciudadanos se relajen y hagan ejercicio.",
+        "🏃 Lugar Ideal para Actividades al Aire Libre: Proporciona amplios espacios abiertos, adecuados para diversas actividades al aire libre y reuniones familiares."
+      ]
+    },
+    "items": [
+      {
+        "title": "🌳 Pasea por el Oasis Natural",
+        "description": "Camina por los senderos forestales, siente la tranquilidad y belleza de la naturaleza, y disfruta de un oasis en la ciudad."
+      },
+      {
+        "title": "🏃 Disfruta de Deportes al Aire Libre",
+        "description": "Utiliza los espacios abiertos y las instalaciones del parque para trotar, caminar o hacer deportes al aire libre, manteniendo un estilo de vida saludable."
+      }
+    ]
+  },
+  "route": {
+    "title": "Guía de Visita",
+    "overview": "Itinerario Perfecto de Un Día:",
+    "steps": [
+      "Horario de Apertura: Lunes-Martes 06:00–17:00 | Miércoles-Sábado 06:00–19:00 | Domingo 06:00–20:00",
+      "Información de Entradas: Entrada gratuita al público",
+      "Consejos de Visita: Manizales tiene un clima agradable. Se recomienda usar ropa deportiva cómoda y traer agua potable."
+    ],
+    "supplementsTitle": "Consejos Prácticos",
+    "supplements": [
+      "Mejor Momento: Se recomienda ir en la madrugada o al atardecer para un clima más fresco y un ambiente más tranquilo.",
+      "Preparación: Usa ropa deportiva cómoda y trae suficiente agua potable.",
+      "Preparación Fotográfica: El parque es una excelente ubicación para fotografiar paisajes naturales. Se recomienda traer una cámara o asegurar que tu teléfono esté completamente cargado."
+    ],
+    "scheduleTitle": "🗓️ Itinerario Recomendado (1-2 horas)",
+    "scheduleItems": [
+      {
+        "time": "Mañana (Exploración Natural)",
+        "description": "Camina por senderos forestales, admira la vegetación nativa y los paisajes naturales."
+      },
+      {
+        "time": "Tarde (Recreación y Deportes)",
+        "description": "Utiliza espacios abiertos para deportes al aire libre y disfruta de un estilo de vida saludable."
+      }
+    ],
+    "tipsTitle": "💡 Consejos Prácticos",
+    "tipsItems": [
+      {
+        "title": "Clima y Equipamiento",
+        "description": "Manizales está situado en la cordillera de los Andes con un clima agradable. Por favor, usa ropa deportiva cómoda y trae agua potable."
+      },
+      {
+        "title": "Información de Transporte",
+        "description": "Fácilmente accesible dentro de la ciudad de Manizales. Se recomienda tomar un taxi o conducir."
+      }
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto de Bosque Popular El Prado",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historia y Cultura",
+        "content": "El Bosque Popular El Prado es un importante espacio verde urbano en Manizales, proporcionando a los ciudadanos un lugar para recreación, deportes y conexión con la naturaleza. Como parque de la ciudad, ha sido testigo del desarrollo urbano de Manizales y es una parte indispensable de la vida diaria de los ciudadanos."
+      },
+      {
+        "id": "nature",
+        "title": "Características Naturales",
+        "content": "El parque preserva rica vegetación nativa y es un oasis natural en la ciudad. Aquí, los visitantes pueden acercarse a la flora y fauna de la cordillera de los Andes y disfrutar de aire fresco y un ambiente tranquilo."
+      },
+      {
+        "id": "location",
+        "title": "Ubicación y Transporte",
+        "content": "El Bosque Popular El Prado se encuentra en Manizales, Caldas, Colombia, con transporte conveniente, convirtiéndose en una opción ideal para que locales y turistas disfruten de actividades al aire libre."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Datos Rápidos (Quick Facts)",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Bosque Popular El Prado",
+    "type": "Tipo de Atracción",
+    "typeValue": "Parque de la Ciudad / Espacio Verde Urbano",
+    "country": "País",
+    "countryValue": "Colombia",
+    "city": "Ciudad",
+    "cityValue": "Manizales, Caldas",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "bosque popular, Manizales, Colombia",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "2GPF+8V",
+    "phone": "Teléfono",
+    "phoneValue": "+57 68720420",
+    "petFriendly": "Mascotas permitidas",
+    "petFriendlyValue": "Sí (por favor traiga correa para sus mascotas)",
+    "tickets": "Entradas",
+    "ticketsValue": "Entrada gratuita al público",
+    "facilities": "Instalaciones",
+    "facilitiesValue": "Senderos peatonales, espacios de recreación, áreas verdes",
+    "hours": "Horario de Atención",
+    "hoursValue": "Lun-Mar 06:00–17:00, Mié-Sáb 06:00–19:00, Dom 06:00–20:00",
+    "rating": "Calificación",
+    "ratingValue": "4.7 / 5.0 (basado en más de 6,933 opiniones)",
+    "location": "Ubicación",
+    "locationValue": "Manizales, Caldas, Colombia"
+  },
+  "hours": {
+    "title": "Horarios y Consejos para Visitantes",
+    "outdoor": "Horario Comercial",
+    "outdoorTime": "Lun-Mar 06:00–17:00, Mié-Sáb 06:00–19:00, Dom 06:00–20:00",
+    "lighthouse": "Mejor Momento de Visita",
+    "summer": "Madrugada o atardecer",
+    "summerTime": "(Clima agradable, adecuado para actividades al aire libre)",
+    "winter": "Notas",
+    "winterTime": "Usa ropa deportiva cómoda y trae agua potable",
+    "warning": "💡 Clima Dinámico",
+    "warningTime": "Manizales está situado en la cordillera de los Andes con un clima agradable, ideal para visitas al aire libre.",
+    "tip": "El parque tiene entrada gratuita y es un lugar ideal para la recreación y el ejercicio citadino."
+  },
+  "tickets": {
+    "title": "Información Importante",
+    "outdoor": "Tarifa de Entrada",
+    "outdoorPrice": "Entrada gratuita",
+    "lighthouse": "Información de Transporte",
+    "adults": "Desde el Centro de Manizales",
+    "adultsPrice": "Camina o toma un taxi",
+    "students": "Duración Recomendada de Visita",
+    "studentsPrice": "1-2 horas",
+    "card": "Atracciones Cercanas",
+    "cardPrice": "Centro de Manizales, otras atracciones en Caldas.",
+    "officialNotice": "Para obtener las últimas actualizaciones, consulte el",
+    "officialNoticeLinkLabel": "Sitio Web Oficial de la Alcaldía de Manizales",
+    "officialNoticeLink": "https://www.manizales.gov.co/"
+  },
+  "transport": {
+    "title": "Cómo Llegar",
+    "airport": "✈️ Aeropuerto al Destino (Recomendación Principal)",
+    "airportDesc": "El aeropuerto más cercano a Bosque Popular El Prado es el Aeropuerto La Nubia (MZL). Al llegar, puedes tomar un taxi o servicio de transporte para ir fácilmente al parque. El viaje es de aproximadamente 20 minutos desde el aeropuerto hasta el parque.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "Dentro de la ciudad de Manizales, sigue el camino para llegar al Bosque Popular El Prado.",
+    "bus": "🚌 Transporte Público (Desde el centro de Manizales)",
+    "busDesc": "En la ciudad de Manizales, puedes tomar un autobús hasta cerca, luego caminar hasta el parque.",
+    "intercity": "Dentro de la Región",
+    "intercityDesc": "El Bosque Popular El Prado está ubicado dentro de la ciudad de Manizales, con transporte conveniente.",
+    "cycling": "Otras Opciones",
+    "cyclingDesc": "Puedes caminar o tomar un taxi para explorar y apreciar mejor el paisaje citadino.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "El viaje desde el centro de Manizales es corto. Se recomienda planificar con anticipación su itinerario y transporte.",
+    "addressTitle": "📍 Dirección",
+    "addressValue": "bosque popular, Manizales, Colombia",
+    "taxiTitle": "🚕 Taxi / Uber (Más Recomendado)",
+    "taxiDesc": "No importa desde dónde salgas en Manizales, tomar un taxi directamente hasta Bosque Popular El Prado es la forma más rápida y sin esfuerzo.",
+    "metroTitle": "🚌 Transporte Público",
+    "metroDesc": "En la ciudad de Manizales, puedes tomar un autobús hasta cerca, luego caminar hasta el parque.",
+    "airportTitle": "✈️ Transporte desde el Aeropuerto",
+    "airportItems": [
+      {
+        "name": "Aeropuerto La Nubia (MZL)",
+        "desc": "Aproximadamente 20 minutos en auto desde el parque."
+      },
+      {
+        "name": "Centro de Manizales",
+        "desc": "Muy cerca del parque, extremadamente conveniente."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "Sienta el Encanto Natural de Manizales",
+    "captions": [
+      "Vista Panorámica del Parque",
+      "Senderos con Árboles",
+      "Paisaje Natural",
+      "Espacios de Recreación",
+      "Paisaje de Vegetación",
+      "Área de Deportes al Aire Libre",
+      "Rincón Tranquilo",
+      "Espacio Verde Urbano",
+      "Escenas de Actividades de Turistas",
+      "Integración de Naturaleza y Ciudad",
+      "Plantas Nativas",
+      "Escenas de Recreación y Deportes",
+      "Entrada del Parque",
+      "Paisaje Verde",
+      "Escenas de Actividades Familiares",
+      "Ecología Natural",
+      "Sol y Verde",
+      "Ambiente de Recreación del Parque"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "Hermoso parque de la ciudad, se puede sentir el encanto de la naturaleza."
+      },
+      {
+        "name": "María González",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "Un lugar encantador para disfrutar de la naturaleza."
+      },
+      {
+        "name": "Ana Silva",
+        "date": "hace 2 meses",
+        "rating": 4,
+        "text": "Hermoso parque con buen ambiente. Muy recomendado."
+      },
+      {
+        "name": "Roberto Pérez",
+        "date": "hace 3 meses",
+        "rating": 5,
+        "text": "Excelente lugar para disfrutar del aire libre y hacer ejercicio."
+      },
+      {
+        "name": "John Smith",
+        "date": "hace 6 meses",
+        "rating": 5,
+        "text": "A charming city park. Great for family trips."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "A must-visit place in Manizales! The park is beautiful."
+      },
+      {
+        "name": "Li Xiaoming",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "El parque es muy hermoso, un gran lugar para recreación y ejercicio!"
+      },
+      {
+        "name": "Zhang Wei",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "¡Visita obligada cuando vengas a Manizales, siente la fusión de naturaleza y ciudad!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el Mapa",
+    "subtitle": "bosque popular, Manizales, Colombia",
+    "openMaps": "Ver en Google Maps",
+    "nearbyTitle": "Recomendaciones Cercanas",
+    "nearby1Name": "Centro de Manizales",
+    "nearby1Desc": "🚶 Caminando",
+    "nearby2Name": "Otras Atracciones en Caldas",
+    "nearby2Desc": "🚗 Conducción corta"
+  },
+  "footer": {
+    "rights": "© 2026 Bosque Popular El Prado. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales y Enlaces",
+    "officialLinks": {
+      "colombiaTravel": {
+        "name": "Portal Oficial de Turismo Nacional de Colombia (Colombia Travel)",
+        "url": "https://colombia.travel/es"
+      },
+      "manizales": {
+        "name": "Gobierno Municipal de Manizales",
+        "url": "https://www.manizales.gov.co/"
+      },
+      "caldas": {
+        "name": "Gobernación de Caldas",
+        "url": "https://www.caldas.gov.co/"
+      },
+      "mincit": {
+        "name": "Ministerio de Comercio, Industria y Turismo de Colombia (MinCIT)",
+        "url": "https://www.mincit.gov.co/"
+      },
+      "procolombia": {
+        "name": "Agencia de Promoción de Turismo, Inversión Extranjera y Exportaciones No Tradicionales de Colombia (ProColombia)",
+        "url": "https://procolombia.co/"
+      },
+      "migracion": {
+        "name": "Agencia Nacional de Migración de Colombia (Migración Colombia)",
+        "url": "https://www.migracioncolombia.gov.co/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ninguna atracción turística, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Limitación de Responsabilidad",
+        "content": "No seremos responsables por ningún daño directo o indirecto derivado del uso de este sitio web o la dependencia de la información aquí proporcionada."
+      }
+    ]
+  },
+  "about": {
+    "title": "Acerca de Bosque Popular El Prado",
+    "introTitle": "Introducción",
+    "introText": "El Bosque Popular El Prado es un importante parque de la ciudad ubicado en Manizales, Caldas, Colombia. Este oasis urbano situado en la cordillera de los Andes no solo proporciona a los ciudadanos un lugar para recreación y ejercicio, sino que también sirve como un puente importante que conecta la naturaleza y la vida urbana.\n\nSituado en la región cafetera de Colombia, el parque ofrece excelentes espacios verdes. Su rica vegetación crea un hermoso contraste con el paisaje urbano de Manizales.",
+    "managementTitle": "Información de Gestión",
+    "managedBy": "Gestionado por",
+    "managementOrg": "Gobierno Municipal de Manizales, Colombia",
+    "location": "Ubicación",
+    "locationValue": "Manizales, Caldas, Colombia",
+    "officialInfo": "Información Oficial",
+    "websiteText": "Visitar el sitio web de la Alcaldía de Manizales",
+    "websiteUrl": "https://www.manizales.gov.co/",
+    "historyTitle": "Antecedentes del Parque",
+    "historyText": "Como un importante espacio verde urbano en Manizales, el Bosque Popular El Prado proporciona a los ciudadanos espacios naturales valiosos.",
+    "managementOwnershipTitle": "Gestión y Propiedad",
+    "managementOwnershipText": "El Bosque Popular El Prado es un parque urbano público ubicado en Manizales, Caldas, Colombia. Es administrado y mantenido por el Gobierno Municipal de Manizales (Alcaldía de Manizales). Como espacio verde urbano público, el parque es propiedad del Gobierno Municipal de Manizales y es gratuito y está abierto a todos los ciudadanos y visitantes. Es una parte importante del sistema de servicios de recreación pública y naturaleza urbana de Manizales.",
+    "managementOrgFull": "Gobierno Municipal de Manizales (Alcaldía de Manizales)",
+    "ownershipType": "Propiedad Pública (Gobierno Municipal)",
+    "managementContact": "Contacto: +57 68720420"
+  },
+  "historyTimeline": {
+    "title": "Línea de Tiempo del Desarrollo del Parque",
+    "items": [
+      {
+        "year": "Establecimiento Inicial",
+        "title": "Establecimiento del Parque",
+        "plaque": "Espacio Verde Urbano",
+        "description": "El Bosque Popular El Prado fue establecido como parque de la ciudad, proporcionando a los ciudadanos espacios de recreación."
+      },
+      {
+        "year": "Proceso de Desarrollo",
+        "title": "Mejora de Instalaciones",
+        "plaque": "Construcción del Parque",
+        "description": "Mejorando continuamente las instalaciones del parque, agregando senderos peatonales y espacios de recreación, convirtiéndose en un lugar importante para la recreación diaria de los ciudadanos."
+      },
+      {
+        "year": "Hasta el Presente",
+        "title": "Desarrollo Continuo",
+        "plaque": "Oasis Urbano",
+        "description": "Como un importante espacio verde urbano en Manizales, continúa proporcionando a ciudadanos y turistas espacios para conectarse con la naturaleza."
+      }
+    ]
+  },
+  "officialManagement": {
+    "title": "Acerca de Bosque Popular El Prado",
+    "text": "Bosque Popular El Prado es un parque de la ciudad en Manizales, Caldas, Colombia. Como una atracción turística y lugar de recreación, es un lugar importante para experimentar la belleza natural de la ciudad de Manizales."
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  },
+  "deepDive": {
+    "title": "Fusión de Naturaleza y Ciudad: Análisis Profundo",
+    "geology": {
+      "title": "Geografía y Ubicación: Oasis Urbano en los Andes",
+      "subtitle1": "Ubicación Geográfica: Parque de la Ciudad de Caldas",
+      "desc1": "El Bosque Popular El Prado se encuentra en Manizales, Caldas, Colombia, en la región de la cordillera de los Andes. Esta ubicación geográfica es ventajosa para la recreación y el ejercicio de los ciudadanos."
+    },
+    "architecture": {
+      "title": "Características del Parque: Valor del Espacio Verde Urbano",
+      "subtitle1": "Fusión de Naturaleza y Ciudad",
+      "desc1": "Comprenda cómo este parque de la ciudad proporciona valiosos espacios naturales para los ciudadanos, creando un oasis en la ciudad ocupada. El parque preserva la vegetación nativa y contribuye al equilibrio ecológico urbano."
+    },
+    "art": {
+      "title": "Recreación y Cultura: De la Naturaleza a la Comunidad",
+      "subtitle1": "Espacio de Recreación Ciudadana",
+      "desc1": "Como parque de la ciudad, este no es solo un lugar para recreación y deportes, sino también un espacio importante para actividades comunitarias. Los ciudadanos pueden participar en diversas actividades al aire libre aquí y disfrutar de un estilo de vida saludable."
+    }
+  },
+  "didYouKnow": {
+    "title": "💡 Huevo de Pascua Oculto: ¿Sabías que...?",
+    "description": "¡Manizales está situado en la región cafetera de Colombia, en la cordillera de los Andes, con terreno montañoso! En un entorno urbano como este, los parques de la ciudad planos y espaciosos como el Bosque Popular El Prado son particularmente preciosos. No solo proporciona a los ciudadanos valiosos espacios de recreación, sino que también sirve como un componente importante del equilibrio ecológico urbano. La rica vegetación en el parque ayuda a mejorar la calidad del aire urbano y crea un ambiente de vida más saludable para los ciudadanos."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "items": [
+      {
+        "question": "¿Cuáles son los horarios de apertura de Bosque Popular El Prado?",
+        "answer": "Los horarios de apertura de Bosque Popular El Prado son los siguientes:\n\nLunes a martes: 06:00–17:00\nMiércoles a sábado: 06:00–19:00\nDomingo: 06:00–20:00\n\nSe recomienda ir en la madrugada o al atardecer para un clima más fresco y un ambiente más tranquilo. Los horarios de apertura específicos pueden ajustarse debido a eventos especiales o feriados, por lo que se recomienda consultar Google Maps para obtener la información más reciente antes de viajar."
+      },
+      {
+        "question": "¿Necesito comprar entradas?",
+        "answer": "El parque es completamente gratuito para entrar. Todos los ciudadanos y turistas pueden entrar libremente y disfrutar de los espacios naturales y recreativos. Este es un verdadero espacio público que proporciona a todos la oportunidad de conectarse con la naturaleza."
+      },
+      {
+        "question": "¿Cómo llegar a Bosque Popular El Prado?",
+        "answer": "Bosque Popular El Prado se encuentra en Manizales, Caldas, Colombia.\n\nTransporte recomendado:\n1. Taxi/Vehículo de alquiler con conductor: La forma más conveniente, tome un taxi directamente desde el centro de Manizales.\n2. Caminando: Si está cerca, puede caminar hasta el parque.\n3. Transporte público: Tome un autobús urbano hasta cerca, luego camine hasta el parque.\n\nEl aeropuerto más cercano es el Aeropuerto La Nubia (MZL), a aproximadamente 20 minutos del parque."
+      },
+      {
+        "question": "¿Es Bosque Popular El Prado adecuado para viajes familiares?",
+        "answer": "Sí, Bosque Popular El Prado es muy adecuado para viajes familiares. El parque tiene amplios espacios abiertos donde los niños pueden correr y jugar en un entorno seguro. Al mismo tiempo, también es un lugar ideal para deportes al aire libre y reuniones familiares. Manizales tiene un clima agradable, muy adecuado para actividades al aire libre."
+      }
+    ]
+  }
+}
