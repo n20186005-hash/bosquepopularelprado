@@ -13,15 +13,17 @@
   },
   "hero": {
     "title": "Bosque Popular El Prado",
-    "subtitle": "Un oasis urbano en el corazón del eje cafetero colombiano, el lugar perfecto para que los ciudadanos se relajen, hagan ejercicio y se conecten con la naturaleza.\nAquí, siente la belleza natural y disfruta de los pulmones verdes de Manizales.",
+    "subtitle": "Como el parque ecológico y deportivo gratuito más grande de Manizales, este es el lugar perfecto para relajarse, hacer ejercicio y conectarse con la naturaleza. Disfruta de una variedad de instalaciones deportivas gratuitas en este oasis urbano.",
     "rating": "4.7",
     "reviewCount": "6,933+",
-    "hours": "Parque de la Ciudad / Ecoturismo / Recreación",
+    "hours": "Entrada Gratuita | Parque Municipal",
     "openMaps": "Obtener Ruta",
-    "viewGuide": "Ver Guía de Visita"
+    "viewGuide": "Ver Guía de Visita",
+    "downloadMap": "🗺️ Descargar Mapa Oficial",
+    "viewActivities": "🎉 Ver Actividades de Hoy"
   },
   "intro": {
-    "title": "Explora el Bosque",
+    "title": "Atracciones e Instalaciones",
     "description": "Descubre un importante espacio verde urbano en Caldas, Colombia — una atracción ideal para que los ciudadanos se relajen, hagan ejercicio y se conecten con la naturaleza.\n\nEl Bosque Popular El Prado se encuentra en Manizales, proporcionando un lugar ideal para que locales y turistas disfruten de actividades al aire libre y aire fresco. Aquí, puedes caminar por senderos forestales y experimentar la belleza natural de la cordillera de los Andes.",
     "visitGuide": {
       "title": "Consejos de Visita",
@@ -40,12 +42,24 @@
     },
     "items": [
       {
-        "title": "🌳 Pasea por el Oasis Natural",
-        "description": "Camina por los senderos forestales, siente la tranquilidad y belleza de la naturaleza, y disfruta de un oasis en la ciudad."
+        "title": "🏊 Piscina Olímpica Pública",
+        "description": "Una piscina estándar completamente gratuita para el público, perfecta para hacer ejercicio y refrescarse."
       },
       {
-        "title": "🏃 Disfruta de Deportes al Aire Libre",
-        "description": "Utiliza los espacios abiertos y las instalaciones del parque para trotar, caminar o hacer deportes al aire libre, manteniendo un estilo de vida saludable."
+        "title": "🏍️ Pistas de Motocross y BMX",
+        "description": "Pistas profesionales todoterreno para que los amantes de la adrenalina experimenten los deportes extremos."
+      },
+      {
+        "title": "⛸️ Pista de Patinaje Profesional",
+        "description": "Un área amplia y plana adecuada para la diversión familiar y el entrenamiento profesional."
+      },
+      {
+        "title": "⚽ Canchas Deportivas",
+        "description": "Canchas de fútbol y baloncesto bien equipadas, ideales para reuniones de fin de semana."
+      },
+      {
+        "title": "🧺 Áreas de Picnic y Juegos",
+        "description": "Disfruta de un picnic familiar rodeado de naturaleza mientras los niños juegan seguros."
       }
     ]
   },
@@ -118,7 +132,7 @@
     "cityValue": "Manizales, Caldas",
     "googleRating": "Calificación de Google",
     "address": "Dirección",
-    "addressValue": "bosque popular, Manizales, Colombia",
+    "addressValue": "bosque popular, Manizales, Caldas, Colombia",
     "plusCode": "Código Plus",
     "plusCodeValue": "2GPF+8V",
     "phone": "Teléfono",
@@ -200,24 +214,24 @@
     "title": "Fotos Impresionantes",
     "subtitle": "Sienta el Encanto Natural de Manizales",
     "captions": [
-      "Vista Panorámica del Parque",
-      "Senderos con Árboles",
-      "Paisaje Natural",
-      "Espacios de Recreación",
-      "Paisaje de Vegetación",
-      "Área de Deportes al Aire Libre",
-      "Rincón Tranquilo",
-      "Espacio Verde Urbano",
-      "Escenas de Actividades de Turistas",
-      "Integración de Naturaleza y Ciudad",
-      "Plantas Nativas",
-      "Escenas de Recreación y Deportes",
+      "Piscina Olímpica",
+      "Pista de Motocross",
+      "Área de Picnic",
+      "Cancha de Fútbol",
+      "Juegos Infantiles",
+      "Senderos Naturales",
+      "Pista de Patinaje",
+      "Cancha de Baloncesto",
+      "Área de Descanso",
       "Entrada del Parque",
-      "Paisaje Verde",
-      "Escenas de Actividades Familiares",
-      "Ecología Natural",
-      "Sol y Verde",
-      "Ambiente de Recreación del Parque"
+      "Ocio de Fin de Semana",
+      "Paisaje Ecológico",
+      "Área Deportiva",
+      "Interacción Familiar",
+      "Oasis Matutino",
+      "Gimnasio al Aire Libre",
+      "Ruta Ciclista",
+      "Vista Tranquila del Lago"
     ],
     "viewAll": "Ver más fotos en Google Maps",
     "showAllPhotos": "Mostrar Todas las Fotos"
@@ -498,7 +512,30 @@
       {
         "question": "¿Es Bosque Popular El Prado adecuado para viajes familiares?",
         "answer": "Sí, Bosque Popular El Prado es muy adecuado para viajes familiares. El parque tiene amplios espacios abiertos donde los niños pueden correr y jugar en un entorno seguro. Al mismo tiempo, también es un lugar ideal para deportes al aire libre y reuniones familiares. Manizales tiene un clima agradable, muy adecuado para actividades al aire libre."
+      },
+      {
+        "question": "¿Hay estacionamiento disponible? ¿Cuál es la capacidad?",
+        "answer": "Sí, hay un estacionamiento público gratuito dentro del parque. Sin embargo, puede llenarse rápidamente los fines de semana y días festivos, por lo que se recomienda llegar temprano o tomar un taxi."
+      },
+      {
+        "question": "¿Es el parque accesible para sillas de ruedas?",
+        "answer": "Los senderos principales y algunas áreas de instalaciones centrales ofrecen acceso para sillas de ruedas, lo que lo hace conveniente para visitantes con discapacidades y familias con cochecitos."
       }
+    ]
+  },
+  "planYourVisit": {
+    "title": "Planifica tu Visita",
+    "hoursTitle": "🕒 Horario de Apertura",
+    "hours": "Lun-Mar 06:00–17:00\nMié-Sáb 06:00–19:00\nDom 06:00–20:00",
+    "ticketsTitle": "🎟️ Tarifa de Entrada",
+    "tickets": "Completamente GRATIS (Parque municipal administrado por el gobierno, la mayoría de instalaciones son de uso gratuito)",
+    "transportTitle": "🚌 Cómo Llegar",
+    "transport": "Un viaje en taxi de 15-20 minutos desde el centro (ej. Plaza de Bolívar) es la opción más conveniente y económica. También puedes tomar un autobús hacia Bosque Popular hasta la última parada.",
+    "tipsTitle": "💡 Consejos y Reglas",
+    "tips": [
+      "🐾 Mascotas: Se permiten mascotas pero deben mantenerse con correa y se debe recoger sus desechos.",
+      "🍔 Comida y Bebida: Hay algunos puestos de comida, pero se recomienda traer tu propia comida para picnic y agua.",
+      "👥 Fines de Semana: El parque se llena los fines de semana y festivos. Llega temprano para asegurar estacionamiento."
     ]
   }
 }

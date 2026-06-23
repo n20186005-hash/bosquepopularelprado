@@ -1,3 +1,5 @@
+'use client';
+
 import { useTranslations } from 'next-intl';
 
 export default function Hero() {
@@ -55,13 +57,20 @@ export default function Hero() {
               <span className="text-white text-sm">{t('openMaps')}</span>
             </a>
             <a
-              href="#guide"
+              href="#plan-your-visit"
               className="flex items-center gap-1.5 bg-white/15 backdrop-blur-sm rounded-full px-4 py-2 hover:bg-white/25 transition-colors"
             >
               <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
                 <path d="M12 4v16m-8-8h16"/>
               </svg>
               <span className="text-white text-sm">{t('viewGuide')}</span>
+            </a>
+            <a
+              href="/map-download"
+              className="flex items-center gap-1.5 bg-[var(--accent)] rounded-full px-4 py-2 hover:bg-opacity-90 transition-colors shadow-lg"
+              onClick={(e) => { e.preventDefault(); alert("Map download functionality coming soon!"); }}
+            >
+              <span className="text-white text-sm font-medium">{t('downloadMap')}</span>
             </a>
           </div>
         </div>

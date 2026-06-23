@@ -13,15 +13,17 @@
   },
   "hero": {
     "title": "Bosque Popular El Prado",
-    "subtitle": "An urban oasis in the heart of Colombia's coffee region, the perfect place for citizens to relax, exercise, and connect with nature.\nHere, feel the natural beauty and enjoy the green lungs of Manizales.",
+    "subtitle": "As Manizales' largest multi-purpose free sports and ecological park, this is the perfect place to relax, exercise, and connect with nature. Enjoy a variety of free sports facilities in this unique urban oasis.",
     "rating": "4.7",
     "reviewCount": "6,933+",
-    "hours": "City Park / Eco-tourism / Recreation",
+    "hours": "Free Entry | Municipal Park",
     "openMaps": "Get Directions",
-    "viewGuide": "View Visit Guide"
+    "viewGuide": "View Visit Guide",
+    "downloadMap": "🗺️ Download Official Map",
+    "viewActivities": "🎉 View Today's Activities"
   },
   "intro": {
-    "title": "Explore the Forest",
+    "title": "Park Highlights & Facilities",
     "description": "Discover an important urban green space in Caldas, Colombia — an ideal attraction for citizens to relax, exercise, and connect with nature.\n\nBosque Popular El Prado is located in Manizales, providing an ideal place for locals and tourists to enjoy outdoor activities and fresh air. Here, you can stroll along forest paths and experience the natural beauty of the Andes Mountains.",
     "visitGuide": {
       "title": "Visiting Tips",
@@ -40,12 +42,24 @@
     },
     "items": [
       {
-        "title": "🌳 Stroll Through Natural Oasis",
-        "description": "Walk along forest paths, feel the tranquility and beauty of nature, and enjoy an oasis in the city."
+        "title": "🏊 Olympic Public Swimming Pool",
+        "description": "A standard swimming pool completely free to the public, perfect for all ages to exercise and cool off."
       },
       {
-        "title": "🏃 Enjoy Outdoor Sports",
-        "description": "Utilize the park's open spaces and facilities for morning jogs, walks, or outdoor sports, maintaining a healthy lifestyle."
+        "title": "🏍️ Motocross & BMX Tracks",
+        "description": "Professional off-road tracks for thrill-seekers to experience the excitement of extreme sports."
+      },
+      {
+        "title": "⛸️ Professional Skating Rink",
+        "description": "A spacious and flat skating area suitable for family fun and professional training."
+      },
+      {
+        "title": "⚽ Multi-purpose Sports Courts",
+        "description": "Well-equipped soccer fields and basketball courts, great for weekend gatherings and team sports."
+      },
+      {
+        "title": "🧺 Picnic Areas & Playgrounds",
+        "description": "Enjoy a family picnic surrounded by nature while kids play safely in dedicated playgrounds."
       }
     ]
   },
@@ -118,7 +132,7 @@
     "cityValue": "Manizales, Caldas",
     "googleRating": "Google Rating",
     "address": "Address",
-    "addressValue": "bosque popular, Manizales, Colombia",
+    "addressValue": "bosque popular, Manizales, Caldas, Colombia",
     "plusCode": "Plus Code",
     "plusCodeValue": "2GPF+8V",
     "phone": "Phone",
@@ -200,24 +214,24 @@
     "title": "Stunning Photos",
     "subtitle": "Feel the Natural Charm of Manizales",
     "captions": [
-      "Park Panoramic View",
-      "Tree-lined Paths",
-      "Natural Scenery",
-      "Recreation Spaces",
-      "Vegetation Landscape",
-      "Outdoor Sports Area",
-      "Peaceful Corner",
-      "Urban Green Space",
-      "Tourist Activity Scenes",
-      "Nature and City Integration",
-      "Native Plants",
-      "Recreation and Sports Scenes",
+      "Olympic Swimming Pool",
+      "Motocross Track",
+      "Family Picnic Area",
+      "Soccer Field",
+      "Children's Playground",
+      "Nature Trails",
+      "Skating Rink",
+      "Basketball Court",
+      "Shaded Rest Area",
       "Park Entrance",
-      "Green Landscape",
-      "Family Activity Scenes",
-      "Natural Ecology",
-      "Sunshine and Greenery",
-      "Park Recreation Atmosphere"
+      "Weekend Leisure",
+      "Ecological Scenery",
+      "Sports Area",
+      "Family Interaction",
+      "Morning Oasis",
+      "Outdoor Fitness",
+      "Bicycle Path",
+      "Peaceful Lake View"
     ],
     "viewAll": "View more photos on Google Maps",
     "showAllPhotos": "Show All Photos"
@@ -498,7 +512,30 @@
       {
         "question": "Is Bosque Popular El Prado suitable for family trips?",
         "answer": "Yes, Bosque Popular El Prado is very suitable for family trips. The park has spacious open spaces where children can run and play in a safe environment. At the same time, it is also an ideal place for outdoor sports and family gatherings. Manizales has pleasant weather, very suitable for outdoor activities."
+      },
+      {
+        "question": "Is there parking available? What is the capacity?",
+        "answer": "Yes, there is a free public parking lot inside the park. However, it can fill up quickly on weekends and holidays due to high visitor numbers, so arriving early or taking a taxi is recommended."
+      },
+      {
+        "question": "Is the park wheelchair accessible?",
+        "answer": "The main pathways and some core facility areas offer wheelchair access, making it convenient for visitors with disabilities and families with strollers."
       }
+    ]
+  },
+  "planYourVisit": {
+    "title": "Plan Your Visit",
+    "hoursTitle": "🕒 Opening Hours",
+    "hours": "Mon-Tue 06:00–17:00\nWed-Sat 06:00–19:00\nSun 06:00–20:00",
+    "ticketsTitle": "🎟️ Admission Fee",
+    "tickets": "Completely FREE (Government-run municipal park, most facilities are free to use)",
+    "transportTitle": "🚌 Getting There",
+    "transport": "A 15-20 minute taxi ride from the city center (e.g., Plaza de Bolívar) is the most convenient and reasonably priced option. You can also take a bus heading towards Bosque Popular and get off at the final stop.",
+    "tipsTitle": "💡 Tips & Rules",
+    "tips": [
+      "🐾 Pet Friendly: Pets are allowed but must be kept on a leash and cleaned up after.",
+      "🍔 Food & Drinks: There are some food stalls inside, but bringing your own picnic food and water is recommended.",
+      "👥 Weekend Crowds: The park gets busy on weekends and holidays. Arrive early for a better experience and easier parking."
     ]
   }
 }

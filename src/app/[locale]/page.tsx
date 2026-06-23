@@ -5,16 +5,13 @@ import About from '@/components/About';
 import Intro from '@/components/Intro';
 import BasicInfo from '@/components/BasicInfo';
 import DeepDive from '@/components/DeepDive';
-import HistoryTimeline from '@/components/HistoryTimeline';
+import PlanYourVisit from '@/components/PlanYourVisit';
 import DidYouKnow from '@/components/DidYouKnow';
 import FAQ from '@/components/FAQ';
-import RouteSection from '@/components/RouteSection';
-import HoursSection from '@/components/HoursSection';
-import TicketsSection from '@/components/TicketsSection';
-import TransportSection from '@/components/TransportSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
+import CTASection from '@/components/CTASection';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -34,16 +31,13 @@ export default async function HomePage({
         <Intro />
         <BasicInfo />
         <DeepDive />
-        <HistoryTimeline />
+        <PlanYourVisit />
         <DidYouKnow />
-        <RouteSection />
-        <HoursSection />
-        <TicketsSection />
-        <TransportSection />
         <Gallery />
         <Reviews />
         <FAQ />
         <MapEmbed />
+        <CTASection />
       </main>
       <Footer />
     </>

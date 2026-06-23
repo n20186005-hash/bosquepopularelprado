@@ -33,6 +33,7 @@ export async function generateMetadata({
   };
 
   return {
+    metadataBase: new URL(baseUrl),
     title: messages.meta.title,
     description: messages.meta.description,
     alternates: {
