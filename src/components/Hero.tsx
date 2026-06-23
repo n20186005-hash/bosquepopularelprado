@@ -65,13 +65,6 @@ export default function Hero() {
               </svg>
               <span className="text-white text-sm">{t('viewGuide')}</span>
             </a>
-            <a
-              href="/map-download"
-              className="flex items-center gap-1.5 bg-[var(--accent)] rounded-full px-4 py-2 hover:bg-opacity-90 transition-colors shadow-lg"
-              onClick={(e) => { e.preventDefault(); alert("Map download functionality coming soon!"); }}
-            >
-              <span className="text-white text-sm font-medium">{t('downloadMap')}</span>
-            </a>
           </div>
         </div>
       </div>

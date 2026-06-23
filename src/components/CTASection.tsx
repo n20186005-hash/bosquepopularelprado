@@ -13,14 +13,6 @@ export default function CTASection() {
         </h2>
         <div className="flex flex-wrap justify-center gap-4">
           <a
-            href="/map-download"
-            onClick={(e) => { e.preventDefault(); alert("Map download functionality coming soon!"); }}
-            className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full font-medium transition-transform hover:-translate-y-0.5 shadow-md"
-            style={{ background: 'var(--accent)', color: 'white' }}
-          >
-            {t('downloadMap')}
-          </a>
-          <a
             href="#plan-your-visit"
             className="inline-flex items-center justify-center gap-2 px-6 py-3 rounded-full font-medium transition-transform hover:-translate-y-0.5 shadow-md"
             style={{ background: 'var(--bg-tertiary)', color: 'var(--text-primary)', border: '1px solid var(--border-color)' }}

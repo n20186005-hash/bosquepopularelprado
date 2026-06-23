@@ -19,11 +19,10 @@
     "hours": "免费入场 | 市政公园",
     "openMaps": "获取地图导航",
     "viewGuide": "查看游览指南",
-    "downloadMap": "🗺️ 下载官方导览图",
     "viewActivities": "🎉 查看今日活动"
   },
   "intro": {
-    "title": "公园亮点与设施 (Highlights)",
+    "title": "公园亮点与设施",
     "description": "发现哥伦比亚卡尔达斯省的重要城市绿地 —— 一片为市民提供休闲、运动和亲近自然空间的天然绿洲。\n\nBosque Popular El Prado 位于曼尼萨莱斯，是当地居民和游客享受户外活动、呼吸新鲜空气的理想场所。在这里，您可以漫步于林间小径，感受安第斯山脉的自然风光。",
     "visitGuide": {
       "title": "游览建议",
@@ -64,7 +63,7 @@
     ]
   },
   "route": {
-    "title": "游览指南 (Visitor Guide)",
+    "title": "游览指南",
     "overview": "公众服务与游览指引：",
     "steps": [
       "开放时间：周一至周二 06:00–17:00 | 周三至周六 06:00–19:00 | 周日 06:00–20:00",
@@ -120,7 +119,7 @@
     ]
   },
   "basicInfo": {
-    "title": "核心概览 (Quick Facts)",
+    "title": "核心概览",
     "officialName": "景点名称",
     "officialNameValue": "Bosque Popular El Prado（埃尔普拉多人民森林）",
     "type": "景点类型",
@@ -178,7 +177,7 @@
     "officialNoticeLink": "https://www.manizales.gov.co/"
   },
   "transport": {
-    "title": "如何到达 (Getting There)",
+    "title": "如何到达",
     "airport": "✈️ 机场到景点路线 (核心推荐)",
     "airportDesc": "距离 Bosque Popular El Prado 最近的机场是拉努比亚机场 (MZL)。抵达后，可乘坐出租车或网约车轻松到达公园。从机场到公园约 20 分钟车程。",
     "selfDrive": "自驾前往",
@@ -399,7 +398,7 @@
     "managementContact": "联系电话：+57 68720420"
   },
   "historyTimeline": {
-    "title": "公园发展时间轴 (Timeline)",
+    "title": "公园发展时间轴",
     "items": [
       {
         "year": "建立初期",
@@ -494,7 +493,7 @@
     "description": "曼尼萨莱斯位于哥伦比亚的咖啡产区，地处安第斯山脉，地形多山。在这样的城市环境中，平坦宽敞的城市公园如 Bosque Popular El Prado 显得尤为珍贵。它不仅为市民提供了宝贵的休闲空间，更是城市生态平衡的重要组成部分。公园内丰富的植被有助于改善城市空气质量，为市民创造更健康的生活环境。"
   },
   "faq": {
-    "title": "常见问题解答 (FAQ)",
+    "title": "常见问题解答",
     "items": [
       {
         "question": "Bosque Popular El Prado 的开放时间是什么？",
@@ -523,7 +522,7 @@
     ]
   },
   "planYourVisit": {
-    "title": "实用信息 (Plan Your Visit)",
+    "title": "实用信息",
     "hoursTitle": "🕒 开放时间",
     "hours": "周一至周二 06:00–17:00\n周三至周六 06:00–19:00\n周日 06:00–20:00",
     "ticketsTitle": "🎟️ 入场费用",
