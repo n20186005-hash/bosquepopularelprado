@@ -1,8 +1,8 @@
 import { redirect } from 'next/navigation';
 
-// This page only renders when the app is built statically (output: 'export')
-// For dynamic deployments, the middleware will intercept requests to `/`
-// and redirect to the default locale (e.g. `/zh`).
+// This page only renders for the bare `/` path. The middleware normally
+// intercepts `/` and redirects to the default locale (e.g. `/zh`); this
+// fallback covers the case where no locale prefix is present.
 export default function RootPage() {
   redirect('/zh');
 }

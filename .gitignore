@@ -92,6 +92,10 @@ COMMIT_EDITMSG*
 /.next/standalone/
 /.next/static/
 
+# opennext / cloudflare build output (keep wrangler.jsonc & open-next.config.ts committed)
+.open-next/
+.wrangler/
+
 # flask
 /instance/
 /.pytest_cache/
